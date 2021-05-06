@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Neu"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Neu "
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Speichern"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Speichern"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Speicherort"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Name"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Datum"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Name"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Datei ist schreibgeschützt"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Größe"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Uhrzeit"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Typ"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Ordner wechseln"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Verschieben nach"
+
+msgid "ckdg_ti_open_file"
+msgstr "Datei öffnen"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Ordner"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d KB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d KB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d KB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Unbekannt"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Datei"
+
+msgid "docm_bd_deleting_files"
+msgstr "Stopp"
+
+msgid "docm_bd_moving_files"
+msgstr "Stopp"
+
+msgid "docm_bd_opening_files"
+msgstr "Stopp"
+
+msgid "docm_bd_saving_files"
+msgstr "Stopp"
+
+msgid "docm_nc_replace_file"
+msgstr "Gleichnamige vorhandene Datei ersetzen?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Vorhandenen Ordnerinhalt mit demselben Namen ersetzen?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Audioclip vor dem Schließen speichern?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Dokument vor dem Schließen speichern?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Datei vor dem Schließen speichern?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Bild vor dem Schließen speichern?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Notiz vor dem Schließen speichern?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Videoclip vor dem Schließen speichern?"
+
+msgid "docm_nw_deleting_file"
+msgstr "Wird gelöscht"
+
+msgid "docm_nw_deleting_files"
+msgstr "%1$d/%2$d wird gelöscht"
+
+msgid "docm_nw_moving_files"
+msgstr "%1$d/%2$d wird verschoben"
+
+msgid "docm_nw_opening_file"
+msgstr "Wird geöffnet"
+
+msgid "docm_nw_opening_files"
+msgstr "%1$d/%2$d wird geöffnet"
+
+msgid "docm_nw_saving_file"
+msgstr "Wird gespeichert"
+
+msgid "docm_nw_saving_files"
+msgstr "%1$d/%2$d wird gespeichert"
+
+msgid "docm_pb_stopping"
+msgstr "Wird gestoppt"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "Keine Speicherkarte vorhanden"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(Keine Dateien/Ordner)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Speichern"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Datenspeicher"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Speicherort"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Typ"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Objekte"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Speicherort"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Verbindung zum Gerät kann nicht hergestellt werden"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Ausschneiden einiger Objekte nicht möglich"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Löschen dieser Datei nicht möglich"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Verschieben dieser Datei nicht möglich"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Kopieren nicht möglich"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Nicht zulässig"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "Datei bereits an diesem Ort gespeichert"
+
+msgid "sfil_ib_file_not_found"
+msgstr "Datei nicht gefunden"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Ordner nicht gefunden"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Name kann nicht mit '.' beginnen"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Objekte nicht gefunden"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+"Gerät im Offline-Modus.\n"
+"Verbindung nicht zulässig."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Öffnen nicht möglich"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Ausgewählter Speicherort ist schreibgeschützt"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Umbenennen nicht möglich"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Zuerst Datei speichern"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Nicht zulässig"
+
+msgid "sfil_ib_select_file"
+msgstr "Zuerst Datei auswählen"
+
+msgid "sfil_li_folder_camera"
+msgstr "Kamera"
+
+msgid "sfil_li_folder_documents"
+msgstr "Dokumente"
+
+msgid "sfil_li_folder_images"
+msgstr "Bilder"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Audioclips"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Benutzerhandbücher"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Videoclips"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Speicherkarte"
+
+msgid "sfil_li_shared_media"
+msgstr "Freigegebene Medien"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d KB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d KB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d KB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Datei löschen?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+"Speichern am ausgewählten Ort nicht möglich.\n"
+"Im Gerät speichern?"
+
+msgid "sfil_nc_recover_file"
+msgstr ""
+"Datei wurde beim Schließen des Programms automatisch gespeichert.\n"
+"Möchten Sie sie behalten?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Spiel vor dem Schließen speichern?"
+
+msgid "sfil_nw_moving_file"
+msgstr "Wird verschoben"
+
+msgid "sfil_ti_file_details"
+msgstr "Details"
+
+msgid "sfil_ti_save_file"
+msgstr "Datei speichern"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Dateien speichern"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d Programm"
+msgstr[1] "%d Programme"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d Anhang"
+msgstr[1] "%d Anhänge"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d Lesezeichen"
+msgstr[1] "%d Lesezeichen"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d Zertifikat"
+msgstr[1] "%d Zertifikate"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d Dokument"
+msgstr[1] "%d Dokumente"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d Datei"
+msgstr[1] "%d Dateien"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d Spiel"
+msgstr[1] "%d Spiele"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d HTML-Dokument"
+msgstr[1] "%d HTML-Dokumente"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d Bild"
+msgstr[1] "%d Bilder"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d Mitteilung"
+msgstr[1] "%d Mitteilungen"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d Notiz"
+msgstr[1] "%d Notizen"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d Präsentation"
+msgstr[1] "%d Präsentationen"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d Kürzel"
+msgstr[1] "%d Shortcuts"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d Skizze"
+msgstr[1] "%d Skizzen"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d Audioclip"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d Audioclips"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d Videoclip"
+msgstr[1] "%d Videoclips"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d Mappe"
+msgstr[1] "%d Mappen"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d XML-Dokument"
+msgstr[1] "%d XML-Dokumente"

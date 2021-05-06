@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Nová"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Nová "
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Uložit"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Uložit"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Umístění"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Název"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Datum"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Název"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Soubor pouze pro čtení"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Velikost"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Čas"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Typ"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Změnit složku"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Přesunout do složky"
+
+msgid "ckdg_ti_open_file"
+msgstr "Otevřít soubor"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Složka"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Neznámý"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Soubor"
+
+msgid "docm_bd_deleting_files"
+msgstr "Zastavit"
+
+msgid "docm_bd_moving_files"
+msgstr "Zastavit"
+
+msgid "docm_bd_opening_files"
+msgstr "Zastavit"
+
+msgid "docm_bd_saving_files"
+msgstr "Zastavit"
+
+msgid "docm_nc_replace_file"
+msgstr "Nahradit již existující soubor stejného názvu?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Nahradit existující složky či soubory stejného názvu?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Uložit audioklip před ukončením?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Uložit dokument před ukončením?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Uložit před ukončením?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Uložit obrázek před ukončením?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Uložit poznámku před ukončením?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Uložit videoklip před ukončením?"
+
+msgid "docm_nw_deleting_file"
+msgstr "Odstraňování"
+
+msgid "docm_nw_deleting_files"
+msgstr "Odstraňování %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Přesun %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "Otevírání"
+
+msgid "docm_nw_opening_files"
+msgstr "Otevírání %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "Ukládání"
+
+msgid "docm_nw_saving_files"
+msgstr "Ukládání %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "Zastavování"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "Není vložena paměťová karta"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(žádné soubory/složky)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Uložit"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Paměť"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Umístění"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Typ"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Položky"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Umístění"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "K přístroji se nelze připojit"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Nelze vyjmout některé položky"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Tento soubor nelze odstranit"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Tento soubor nelze přesunout"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Nelze kopírovat"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Nepovoleno"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "Soubor již uložen v tomto umístění"
+
+msgid "sfil_ib_file_not_found"
+msgstr "Soubor nenalezen"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Složka nenalezena"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Název nemůže začínat „.“"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Položky nenalezeny"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+"Přístroj v režimu off-line.\n"
+"Připojení nepovoleno."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Nelze otevřít"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Zvolené umístění je pouze pro čtení"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Nelze přejmenovat"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Nejprve uložte soubor"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Nepovoleno"
+
+msgid "sfil_ib_select_file"
+msgstr "Nejprve zvolte soubor"
+
+msgid "sfil_li_folder_camera"
+msgstr "Fotoaparát"
+
+msgid "sfil_li_folder_documents"
+msgstr "Dokumenty"
+
+msgid "sfil_li_folder_images"
+msgstr "Obrázky"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Audioklipy"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Uživatelské příručky"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Videoklipy"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Paměťová karta"
+
+msgid "sfil_li_shared_media"
+msgstr "Sdílená média"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Odstranit soubor?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+"Nelze uložit do zvoleného umístění.\n"
+"Uložit do paměti přístroje?"
+
+msgid "sfil_nc_recover_file"
+msgstr ""
+"Soubor byl uložen automaticky při ukončení aplikace.\n"
+"Zachovat soubor?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Uložit hru před ukončením?"
+
+msgid "sfil_nw_moving_file"
+msgstr "Přesun"
+
+msgid "sfil_ti_file_details"
+msgstr "Podrobnosti"
+
+msgid "sfil_ti_save_file"
+msgstr "Uložit soubor"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Uložit soubory"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d aplikace"
+msgstr[1] "%d aplikace"
+msgstr[2] "%d aplikací"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d příloha"
+msgstr[1] "%d přílohy"
+msgstr[2] "%d příloh"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d záložka"
+msgstr[1] "%d záložky"
+msgstr[2] "%d záložek"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d certifikát"
+msgstr[1] "%d certifikáty"
+msgstr[2] "%d certifikátů"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d dokument"
+msgstr[1] "%d dokumenty"
+msgstr[2] "%d dokumentů"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d soubor"
+msgstr[1] "%d soubory"
+msgstr[2] "%d souborů"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d hra"
+msgstr[1] "%d hry"
+msgstr[2] "%d her"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d dokument HTML"
+msgstr[1] "%d dokumenty HTML"
+msgstr[2] "%d dokumentů HTML"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d obrázek"
+msgstr[1] "%d obrázky"
+msgstr[2] "%d obrázků"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d zpráva"
+msgstr[1] "%d zprávy"
+msgstr[2] "%d zpráv"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d poznámka"
+msgstr[1] "%d poznámky"
+msgstr[2] "%d poznámek"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d prezentace"
+msgstr[1] "%d prezentace"
+msgstr[2] "%d prezentací"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d zástupce"
+msgstr[1] "%d zástupci"
+msgstr[2] "%d zástupců"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d náčrt"
+msgstr[1] "%d náčrty"
+msgstr[2] "%d náčrtů"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d audioklip"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "audioklipy (%d)"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d videoklip"
+msgstr[1] "%d videoklipy"
+msgstr[2] "%d videoklipů"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d pracovní sešit"
+msgstr[1] "%d pracovní sešity"
+msgstr[2] "%d pracovních sešitů"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d dokument XML"
+msgstr[1] "%d dokumenty XML"
+msgstr[2] "%d dokumentů XML"

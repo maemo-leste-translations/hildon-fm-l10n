@@ -1,0 +1,119 @@
+Source: hildon-fm-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: hildon-fm-l10n-mr0
+Section: misc
+Architecture: all
+Provides: hildon-fm-l10n-mr
+Depends: hildon-fm-l10n-ruru, hildon-fm-l10n-frfr, hildon-fm-l10n-frca, hildon-fm-l10n-dadk, hildon-fm-l10n-itit, hildon-fm-l10n-svse, hildon-fm-l10n-nono, hildon-fm-l10n-fifi, hildon-fm-l10n-nlnl, hildon-fm-l10n-enus, hildon-fm-l10n-dede, hildon-fm-l10n-esmx, hildon-fm-l10n-eses, hildon-fm-l10n-cscz, hildon-fm-l10n-ptpt, hildon-fm-l10n-engb, hildon-fm-l10n-plpl
+Description: hildon-fm marketing release package
+ This is a metapackage for hildon-fm to pull all the l10n packages.
+ Application developers of hildon-fm should depend on
+ "hildon-fm-l10n-mr0 | hildon-fm-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: hildon-fm-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (cs_CZ)
+ Language files for cs_CZ hildon-fm.
+
+Package: hildon-fm-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (da_DK)
+ Language files for da_DK hildon-fm.
+
+Package: hildon-fm-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (de_DE)
+ Language files for de_DE hildon-fm.
+
+Package: hildon-fm-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (en_GB)
+ Language files for en_GB hildon-fm.
+
+Package: hildon-fm-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (en_US)
+ Language files for en_US hildon-fm.
+
+Package: hildon-fm-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (es_ES)
+ Language files for es_ES hildon-fm.
+
+Package: hildon-fm-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (es_MX)
+ Language files for es_MX hildon-fm.
+
+Package: hildon-fm-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (fi_FI)
+ Language files for fi_FI hildon-fm.
+
+Package: hildon-fm-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (fr_CA)
+ Language files for fr_CA hildon-fm.
+
+Package: hildon-fm-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (fr_FR)
+ Language files for fr_FR hildon-fm.
+
+Package: hildon-fm-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (it_IT)
+ Language files for it_IT hildon-fm.
+
+Package: hildon-fm-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (nl_NL)
+ Language files for nl_NL hildon-fm.
+
+Package: hildon-fm-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (no_NO)
+ Language files for no_NO hildon-fm.
+
+Package: hildon-fm-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (pl_PL)
+ Language files for pl_PL hildon-fm.
+
+Package: hildon-fm-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (pt_PT)
+ Language files for pt_PT hildon-fm.
+
+Package: hildon-fm-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (ru_RU)
+ Language files for ru_RU hildon-fm.
+
+Package: hildon-fm-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for hildon-fm (sv_SE)
+ Language files for sv_SE hildon-fm.

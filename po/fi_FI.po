@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Uusi"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Uusi "
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Tallenna"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Tallenna"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Sijainti"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Nimi"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Päivämäärä"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Nimi"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Tiedostoon on vain lukuoikeudet"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Koko"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Aika"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Tyyppi"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Vaihda kansiota"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Siirrä kansioon"
+
+msgid "ckdg_ti_open_file"
+msgstr "Avaa tiedosto"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Kansio"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kt"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f Mt"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f Gt"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kt"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f Mt"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kt"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Tuntematon"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Tiedosto"
+
+msgid "docm_bd_deleting_files"
+msgstr "Lopeta"
+
+msgid "docm_bd_moving_files"
+msgstr "Lopeta"
+
+msgid "docm_bd_opening_files"
+msgstr "Lopeta"
+
+msgid "docm_bd_saving_files"
+msgstr "Lopeta"
+
+msgid "docm_nc_replace_file"
+msgstr "Korvataanko nykyinen samanniminen tiedosto?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Korvataanko kansiossa olevat samannimiset tiedostot?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Tallennetaanko äänileike ennen sulkemista?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Tallennetaanko dokumentti ennen sulkemista?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Tallennetaanko tiedosto ennen sulkemista?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Tallennetaanko kuva ennen sulkemista?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Tallennetaanko muistiinpano ennen sulkemista?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Tallennetaanko videoleike ennen sulkemista?"
+
+msgid "docm_nw_deleting_file"
+msgstr "Poistetaan"
+
+msgid "docm_nw_deleting_files"
+msgstr "Poistetaan %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Siirretään %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "Avataan"
+
+msgid "docm_nw_opening_files"
+msgstr "Avataan %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "Tallentaa"
+
+msgid "docm_nw_saving_files"
+msgstr "Tallennetaan %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "Lopetetaan"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "Muistikorttia ei ole asetettu"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(ei tiedostoja/kansioita)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Tallenna"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Muisti"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Sijainti"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Tyyppi"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Kohteet"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Sijainti"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Ei voi muodostaa yhteyttä laitteeseen"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Kaikkia kohteita ei voi leikata"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Tiedostoa ei voi poistaa"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Tiedostoa ei voi siirtää"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Ei voi kopioida"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Ei sallittu"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "Tiedosto on jo tallennettu tähän sijaintiin"
+
+msgid "sfil_ib_file_not_found"
+msgstr "Tiedostoa ei löydy"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Kansiota ei löydy"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Nimi ei voi alkaa pisteellä (.)"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Kohteita ei löydy"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+"Laite on offline-tilassa.\n"
+"Yhteyden muodostaminen ei sallittu."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Ei voi avata"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Valittuun sijaintiin on vain lukuoikeudet"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Ei voi nimetä uudelleen"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Tallenna tiedosto ensin"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Ei sallittu"
+
+msgid "sfil_ib_select_file"
+msgstr "Valitse ensin tiedosto"
+
+msgid "sfil_li_folder_camera"
+msgstr "Kamera"
+
+msgid "sfil_li_folder_documents"
+msgstr "Dokumentit"
+
+msgid "sfil_li_folder_images"
+msgstr "Kuvat"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Äänileikkeet"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Käyttöohjeet"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Videoleikkeet"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Muistikortti"
+
+msgid "sfil_li_shared_media"
+msgstr "Jaetut mediatiedostot"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kt"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f Mt"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f Gt"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kt"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f Mt"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kt"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Poistetaanko tiedosto?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+"Valittuun sijaintiin ei voi tallentaa.\n"
+"Tallennetaanko laitteen muistiin?"
+
+msgid "sfil_nc_recover_file"
+msgstr ""
+"Tiedosto tallennettiin automaattisesti kun sovellus suljettiin.\n"
+"Haluatko säästää sen?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Tallennetaanko peli ennen sulkemista?"
+
+msgid "sfil_nw_moving_file"
+msgstr "Siirretään"
+
+msgid "sfil_ti_file_details"
+msgstr "Tiedot"
+
+msgid "sfil_ti_save_file"
+msgstr "Tallenna tiedosto"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Tallenna tiedostot"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d sovellus"
+msgstr[1] "%d sovellusta"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d liite"
+msgstr[1] "%d liitettä"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d kirjanmerkki"
+msgstr[1] "%d kirjanmerkkiä"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d varmenne"
+msgstr[1] "%d varmennetta"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d dokumentti"
+msgstr[1] "%d dokumenttia"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d tiedosto"
+msgstr[1] "%d tiedostoa"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d peli"
+msgstr[1] "%d peliä"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d HTML-dokumentti"
+msgstr[1] "%d HTML-dokumenttia"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d kuva"
+msgstr[1] "%d kuvaa"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d viesti"
+msgstr[1] "%d viestiä"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d muistiinpano"
+msgstr[1] "%d muistiinpanoa"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d esitys"
+msgstr[1] "%d esitystä"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d linkki"
+msgstr[1] "%d linkkiä"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d piirros"
+msgstr[1] "%d piirrosta"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d äänileike"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d äänileikettä"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d videoleike"
+msgstr[1] "%d videoleikettä"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d työkirja"
+msgstr[1] "%d työkirjaa"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d XML-dokumentti"
+msgstr[1] "%d XML-dokumenttia"

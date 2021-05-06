@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Создать"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Создать "
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Сохранить"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Сохранить"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Расположение"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Имя"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Дата"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Имя"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Файл только для чтения"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Размер"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Время"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Тип"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Сменить папку"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Переместить в папку"
+
+msgid "ckdg_ti_open_file"
+msgstr "Открыть файл"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Папка"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d КБ"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f МБ"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f ГБ"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d КБ"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f МБ"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d КБ"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Неизвестно"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Файл"
+
+msgid "docm_bd_deleting_files"
+msgstr "Остановить"
+
+msgid "docm_bd_moving_files"
+msgstr "Остановить"
+
+msgid "docm_bd_opening_files"
+msgstr "Остановить"
+
+msgid "docm_bd_saving_files"
+msgstr "Остановить"
+
+msgid "docm_nc_replace_file"
+msgstr "Заменить существующий файл с тем же именем?"
+
+msgid "docm_nc_replace_multiple"
+msgstr ""
+"Папка уже содержит объекты с теми же именами.\n"
+"Заменить существующие объекты?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Сохранить аудиоклип перед закрытием?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Сохранить документ перед закрытием?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Сохранить файл перед закрытием?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Сохранить изображение перед закрытием?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Сохранить заметку перед закрытием?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Сохранить видеоклип перед закрытием?"
+
+msgid "docm_nw_deleting_file"
+msgstr "Удаление"
+
+msgid "docm_nw_deleting_files"
+msgstr "Удаление %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Перемещение %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "Открытие"
+
+msgid "docm_nw_opening_files"
+msgstr "Открытие %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "Сохранение"
+
+msgid "docm_nw_saving_files"
+msgstr "Сохранение %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "Останов"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "Карта памяти не вставлена"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(нет файлов/папок)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Сохранить"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Хранилище"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Расположение"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Тип"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Объекты:"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Расположение"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Не удается соединиться с устройством"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Не удается вырезать некоторые объекты"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Не удается удалить файл"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Не удается переместить файл"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Не удается скопировать"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Недопустимо"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "Файл уже сохранен в этом расположении"
+
+msgid "sfil_ib_file_not_found"
+msgstr "Файл не найден"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Папка не найдена"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Имя не может начинаться с символа ."
+
+msgid "sfil_ib_items_not_found"
+msgstr "Объекты не найдены"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+"Устройство в автономном режиме.\n"
+"Соединение невозможно."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Не удается открыть"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Выбрано расположение только для чтения"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Не удается переименовать"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Сначала сохраните файл"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Недопустимо"
+
+msgid "sfil_ib_select_file"
+msgstr "Сначала выберите файл"
+
+msgid "sfil_li_folder_camera"
+msgstr "Камера"
+
+msgid "sfil_li_folder_documents"
+msgstr "Документы"
+
+msgid "sfil_li_folder_images"
+msgstr "Изображения"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Аудиоклипы"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Руководства пользователя"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Видеоклипы"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Карта памяти"
+
+msgid "sfil_li_shared_media"
+msgstr "Медиафайлы совместного доступа"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d КБ"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f МБ"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f ГБ"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d КБ"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f МБ"
+
+msgid "sfil_li_size_kb"
+msgstr "%d КБ"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Удалить файл?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+"Не удается сохранить в выбранное место.\n"
+"Сохранить в память устройства?"
+
+msgid "sfil_nc_recover_file"
+msgstr ""
+"Файл был автоматически сохранен при закрытии приложения.\n"
+"Продолжить работу с ним?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Сохранить игру перед закрытием?"
+
+msgid "sfil_nw_moving_file"
+msgstr "Перемещение"
+
+msgid "sfil_ti_file_details"
+msgstr "Свойства"
+
+msgid "sfil_ti_save_file"
+msgstr "Сохранить файл"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Сохранить файлы"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d приложение"
+msgstr[1] "%d приложения"
+msgstr[2] "%d приложений"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d вложение"
+msgstr[1] "%d вложения"
+msgstr[2] "%d вложений"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d закладка"
+msgstr[1] "%d закладки"
+msgstr[2] "%d закладок"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d сертификат"
+msgstr[1] "%d сертификата"
+msgstr[2] "%d сертификатов"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d документ"
+msgstr[1] "%d документа"
+msgstr[2] "%d документов"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d файл"
+msgstr[1] "%d файла"
+msgstr[2] "%d файлов"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d игра"
+msgstr[1] "%d игры"
+msgstr[2] "%d игр"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d документ HTML"
+msgstr[1] "%d документа HTML"
+msgstr[2] "%d документов HTML"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d изображение"
+msgstr[1] "%d изображения"
+msgstr[2] "%d изображений"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d сообщение"
+msgstr[1] "%d сообщения"
+msgstr[2] "%d сообщений"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d заметка"
+msgstr[1] "%d заметки"
+msgstr[2] "%d заметок"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d презентация"
+msgstr[1] "%d презентации"
+msgstr[2] "%d презентаций"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d ярлык"
+msgstr[1] "%d ярлыка"
+msgstr[2] "%d ярлыков"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d набросок"
+msgstr[1] "%d наброска"
+msgstr[2] "%d набросков"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d аудиоклип"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d аудиоклипов"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d видеоклип"
+msgstr[1] "%d видеоклипа"
+msgstr[2] "%d видеоклипов"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d рабочая книга"
+msgstr[1] "%d рабочих книги"
+msgstr[2] "%d рабочих книг"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d документ XML"
+msgstr[1] "%d документа XML"
+msgstr[2] "%d документов XML"
