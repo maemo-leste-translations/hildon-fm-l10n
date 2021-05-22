@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: hildon-fm 20090622130112\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.06.22 13:01+0300\n"
-"PO-Revision-Date: 2009.06.22 13:01+0300\n"
-"Last-Translator:\n"
-"Language-Team: es_ES\n"
+"PO-Revision-Date: 2021-05-23 21:32+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-fm-l10n/es/>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 msgid "ckdg_bd_change_folder_new_folder"
 msgstr "Nueva"
@@ -36,7 +39,7 @@ msgid "ckdg_fi_properties_name_prompt"
 msgstr "Nombre"
 
 msgid "ckdg_fi_properties_read_only"
-msgstr "Archivo de sólo lectura"
+msgstr "El archivo es de solo lectura"
 
 msgid "ckdg_fi_properties_size_prompt"
 msgstr "Tamaño"
@@ -60,7 +63,7 @@ msgid "ckdg_va_new_folder_name_stub"
 msgstr "Carpeta"
 
 msgid "ckdg_va_properties_size_100kb_1mb"
-msgstr "%d KB"
+msgstr "%d kB"
 
 msgid "ckdg_va_properties_size_10mb_1gb"
 msgstr "%.1f MB"
@@ -121,10 +124,10 @@ msgid "docm_nc_save_before_closing_video"
 msgstr "¿Guardar clip de vídeo antes de cerrar?"
 
 msgid "docm_nw_deleting_file"
-msgstr "Suprimiendo"
+msgstr "Eliminando"
 
 msgid "docm_nw_deleting_files"
-msgstr "Suprimiendo %1$d/%2$d"
+msgstr "Eliminando %1$d/%2$d"
 
 msgid "docm_nw_moving_files"
 msgstr "Moviendo %1$d/%2$d"
@@ -175,7 +178,7 @@ msgid "sfil_ib_cannot_cut_some_items"
 msgstr "Imposible cortar elementos"
 
 msgid "sfil_ib_cannot_delete_file"
-msgstr "Imposible suprimir este archivo"
+msgstr "Imposible eliminar este archivo"
 
 msgid "sfil_ib_cannot_move_file"
 msgstr "Imposible mover este archivo"
@@ -196,7 +199,7 @@ msgid "sfil_ib_folder_not_found"
 msgstr "Carpeta no encontrada"
 
 msgid "sfil_ib_invalid_name_dot"
-msgstr "El nombre no puede comenzar por '.'"
+msgstr "El nombre no puede comenzar por «.»"
 
 msgid "sfil_ib_items_not_found"
 msgstr "Elementos no encontrados"
@@ -210,10 +213,10 @@ msgid "sfil_ib_opening_not_allowed"
 msgstr "Imposible abrir"
 
 msgid "sfil_ib_readonly_location"
-msgstr "La ubicación seleccionada es de sólo lectura"
+msgstr "La ubicación seleccionada es de solo lectura"
 
 msgid "sfil_ib_renaming_not_allowed"
-msgstr "Imposible renombrar"
+msgstr "Imposible cambiar nombre"
 
 msgid "sfil_ib_save_file_first"
 msgstr "Guarde antes archivo"
@@ -249,7 +252,7 @@ msgid "sfil_li_shared_media"
 msgstr "Archivos multimedia compartidos"
 
 msgid "sfil_li_size_100kb_1mb"
-msgstr "%d KB"
+msgstr "%d kB"
 
 msgid "sfil_li_size_10mb_1gb"
 msgstr "%.1f MB"
@@ -258,16 +261,16 @@ msgid "sfil_li_size_1gb_or_greater"
 msgstr "%.1f GB"
 
 msgid "sfil_li_size_1kb_99kb"
-msgstr "%d KB"
+msgstr "%d kB"
 
 msgid "sfil_li_size_1mb_10mb"
 msgstr "%.1f MB"
 
 msgid "sfil_li_size_kb"
-msgstr "%d KB"
+msgstr "%d kB"
 
 msgid "sfil_nc_delete_open_file"
-msgstr "¿Suprimir archivo?"
+msgstr "¿Eliminar archivo?"
 
 msgid "sfil_nc_not_available_save_local"
 msgstr ""
