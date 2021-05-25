@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-04-27 20:06+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: Adib Al Abaji <shami585@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SYRIAN ARAB REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "جديد"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "جديد"
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "حفظ"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "حفظ"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "المكان"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "الاسم"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "التاريخ"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "الاسم"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "ملف للقراءة فقط"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "الحجم"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "الوقت"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "النوع"
+
+msgid "ckdg_ti_change_folder"
+msgstr "تغير المجلد"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "نقل إلى مجلد"
+
+msgid "ckdg_ti_open_file"
+msgstr "فتح الملف"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "مجلد"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "غير معروف"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "ملف"
+
+msgid "docm_bd_deleting_files"
+msgstr "ايقاف"
+
+msgid "docm_bd_moving_files"
+msgstr "ايقاف"
+
+msgid "docm_bd_opening_files"
+msgstr "ايقاف"
+
+msgid "docm_bd_saving_files"
+msgstr "ايقاف"
+
+msgid "docm_nc_replace_file"
+msgstr "استبدال الملف الموجود بنفس الاسم؟"
+
+msgid "docm_nc_replace_multiple"
+msgstr "استبدال محتويات المجلد الموجود  بنفس الاسم؟"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "حفظ الملف الصوتي قبل أن الإغلاق؟"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "حفظ المستند قبل الإغلاق؟"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "حفظ الملف قبل الإغلاق؟"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "حفظ الصورة قبل الإغلاق؟"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "حفظ الملاحظة قبل الإغلاق؟"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "حفظ ملف الفيديو قبل الإغلاق؟"
+
+msgid "docm_nw_deleting_file"
+msgstr "جاري الحذف"
+
+msgid "docm_nw_deleting_files"
+msgstr "جاري حذف %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "جاري نقل %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "جاري الفتح"
+
+msgid "docm_nw_opening_files"
+msgstr "جاري فتح %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "جاري الحفظ"
+
+msgid "docm_nw_saving_files"
+msgstr "جاري حفظ %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "جاري التوقف"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "لا يوجد بطاقة ذاكرة مدخلة"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(لا يوجد ملفات/مجلدات)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "حفظ"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "التخزين"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "المكان"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "النوع"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "عنصر"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "المكان"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "غير قادر على وصل الجهاز"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "غير قادر على قص بعض البنود"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "غير قادر على حذف هذا الملف"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "غير قادر على تحريك هذا الملف"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "غير قادر على النسخ"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "غير مسموح"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "الملف المحفوظ مسبقا في هذا الموقع"
+
+msgid "sfil_ib_file_not_found"
+msgstr "لم يتم العثور على الملف"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "لم يتم العثور على مجلد"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "الإسم غير قادر على البدء بـ '.'"
+
+msgid "sfil_ib_items_not_found"
+msgstr "لم يتم العثور على البنود"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+"الجهاز في وضع غير متصل.\n"
+"الإتصال غير مسموح."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "غير قادر على فتح"
+
+msgid "sfil_ib_readonly_location"
+msgstr "الموقع الذي تم اختياره هو للقراءة فقط"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "غير قادر على إعادة التسمية"
+
+msgid "sfil_ib_save_file_first"
+msgstr "إحفظ الملف أولاً"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "غير مسموح"
+
+msgid "sfil_ib_select_file"
+msgstr "حدد الملف أولاً"
+
+msgid "sfil_li_folder_camera"
+msgstr "كاميرا"
+
+msgid "sfil_li_folder_documents"
+msgstr "مستندات"
+
+msgid "sfil_li_folder_images"
+msgstr "صور"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "صوتيات"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "دليل الاستخدام"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "الفيديوهات"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "بطاقة الذاكرة"
+
+msgid "sfil_li_shared_media"
+msgstr "الوسائط المعروضة للمشاركة"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "حذف الملف؟"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+"غير قادر على الحفظ الموقع المحدد.\n"
+"الحفظ في ذاكرة الجهاز؟"
+
+msgid "sfil_nc_recover_file"
+msgstr ""
+"تم حفظ الملف تلقائيا عند إغلاق التطبيق.\n"
+"هل تريد إبقائه؟"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "حفظ اللعبة قبل الإغلاق؟"
+
+msgid "sfil_nw_moving_file"
+msgstr "جاري النقل"
+
+msgid "sfil_ti_file_details"
+msgstr "تفاصيل"
+
+msgid "sfil_ti_save_file"
+msgstr "حفظ الملف"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "حفظ الملفات"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d تطبيق"
+msgstr[1] "%d تطبيقات"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d مرفق"
+msgstr[1] "%d مرفقات"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d المفضلة"
+msgstr[1] "%d المفضلة"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d شهادة"
+msgstr[1] "%d شهادات"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d مستند"
+msgstr[1] "%d مستندات"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d ملف"
+msgstr[1] "%d ملفات"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d لعبة"
+msgstr[1] "%d ألعاب"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d مستند HTML"
+msgstr[1] "%d مستندات HTML"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d صورة"
+msgstr[1] "%d صور"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d رسالة"
+msgstr[1] "%d رسائل"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d ملاحظة"
+msgstr[1] "%d ملاحظات"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d عرض"
+msgstr[1] "%d عروض"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d إختصار"
+msgstr[1] "%d إختصارات"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d رسم"
+msgstr[1] "%d رسومات"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d ملف صوتي"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d صوتيات"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d فيديو"
+msgstr[1] "%d فيديوهات"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d كراس تمرين"
+msgstr[1] "%d كراس تمارين"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d مستند XML"
+msgstr[1] "%d مستندات XML"
+
