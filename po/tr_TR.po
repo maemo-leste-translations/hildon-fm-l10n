@@ -33,13 +33,16 @@ msgstr ""
 "Project-Id-Version: hildon-fm 20090622130112\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.22 13:01+0300\n"
-"PO-Revision-Date: 2010-02-02 08:56+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 13:32+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-fm-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 # Device’s removable memory card name when card has no name or is not present.
 msgid "sfil_li_memorycard_removable"
@@ -71,7 +74,7 @@ msgstr "Ses klipleri"
 
 # Folder for miscellaneous documents
 msgid "sfil_li_folder_documents"
-msgstr "Dökümanlar"
+msgstr "Belgeler"
 
 # Folder for files taken by device camera
 msgid "sfil_li_folder_camera"
@@ -119,7 +122,7 @@ msgstr "Klasöre taşı"
 
 # "New folder" button in Move to Folder Dialog
 msgid "ckdg_bd_move_to_folder_new_folder"
-msgstr "Yeni"
+msgstr "Yeni "
 
 # Title – Select <object> dialog
 msgid "ckdg_ti_open_file"
@@ -160,20 +163,20 @@ msgstr "Konum"
 #  Items field value in "save <objects>" dialog when all items are documents
 msgid "sfil_va_number_of_objects_document"
 msgid_plural "sfil_va_number_of_objects_documents"
-msgstr[0] "%d döküman"
-msgstr[1] "%d döküman"
+msgstr[0] "%d belge"
+msgstr[1] "%d belge"
 
 #  Items field value in "save <objects>" dialog when all items are HTML documents
 msgid "sfil_va_number_of_objects_html_document"
 msgid_plural "sfil_va_number_of_objects_html_documents"
-msgstr[0] "%d HTML döküman"
-msgstr[1] "%d HTML döküman"
+msgstr[0] "%d HTML belgesi"
+msgstr[1] "%d HTML belgesi"
 
 #  Items field value in "save <objects>" dialog when all items are XML documents
 msgid "sfil_va_number_of_objects_xml_document"
 msgid_plural "sfil_va_number_of_objects_xml_documents"
-msgstr[0] "%d XML döküman"
-msgstr[1] "%d XML döküman"
+msgstr[0] "%d XML belgesi"
+msgstr[1] "%d XML belgesi"
 
 #  Items field value in "save <objects>" dialog when all items are messages
 msgid "sfil_va_number_of_objects_message"
@@ -208,8 +211,8 @@ msgstr[1] "%d sunum"
 #  Items field value in "save <objects>" dialog when all items are bookmarks
 msgid "sfil_va_number_of_objects_bookmarks"
 msgid_plural "sfil_va_number_of_objects_bookmarks"
-msgstr[0] "%d bookmark"
-msgstr[1] "%d bookmarks"
+msgstr[0] "%d yer imi"
+msgstr[1] "%d yer imi"
 
 #  Items field value in "save <objects>" dialog when all items are certificates
 msgid "sfil_va_number_of_objects_certificate"
@@ -246,8 +249,8 @@ msgstr[1] "%d dosya"
 #  Items field value in "save <objects>" dialog when items are attachments
 msgid "sfil_va_number_of_objects_attachment"
 msgid_plural "sfil_va_number_of_objects_attachments"
-msgstr[0] "%d eklenti"
-msgstr[1] "%d eklenti"
+msgstr[0] "%d ek"
+msgstr[1] "%d ek"
 
 #  Items field value in "save <objects>" dialog when all items are games
 msgid "sfil_va_number_of_objects_game"
@@ -383,7 +386,7 @@ msgstr "Kapatmadan önce not kaydedilsin mi?"
 
 # Confirmation text for Save before closing confirmation note when file type is a document.
 msgid "docm_nc_save_before_closing_document"
-msgstr "Kapatmadan önce döküman kaydedilsin mi?"
+msgstr "Kapatmadan önce belge kaydedilsin mi?"
 
 # Confirmation text for Save before closing confirmation note when file type is other file type.
 msgid "docm_nc_save_before_closing_file"
@@ -528,4 +531,3 @@ msgstr "Öğeler bulunamadı"
 # Shown if the user tries to save or rename a file with a name which starts with "."
 msgid "sfil_ib_invalid_name_dot"
 msgstr "İsim '.' ile başlayamaz"
-
