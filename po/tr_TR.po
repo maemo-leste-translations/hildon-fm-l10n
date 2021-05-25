@@ -1,0 +1,531 @@
+#
+# This file is part of hildon-fm-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-fm 20090622130112\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-02-02 08:56+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Device’s removable memory card name when card has no name or is not present.
+msgid "sfil_li_memorycard_removable"
+msgstr "Hafıza kartı"
+
+# Root for UPnP AV servers device
+msgid "sfil_li_shared_media"
+msgstr "Paylaşılan medya"
+
+# Folder with localized name for user guide documents
+msgid "sfil_li_folder_user_guides"
+msgstr "Kullanıcı kılavuzları"
+
+# Folder for images
+msgid "sfil_li_folder_images"
+msgstr "Resimler"
+
+# Sketch
+msgid "sfil_li_folder_root"
+msgstr ""
+
+# Folder for video files
+msgid "sfil_li_folder_video_clips"
+msgstr "Video klipler"
+
+# Folder for audio files
+msgid "sfil_li_folder_sound_clips"
+msgstr "Ses klipleri"
+
+# Folder for miscellaneous documents
+msgid "sfil_li_folder_documents"
+msgstr "Dökümanlar"
+
+# Folder for files taken by device camera
+msgid "sfil_li_folder_camera"
+msgstr "Kamera"
+
+# Label text shown for empty list in content pane.
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(dosya/klasör yok)"
+
+# Size format in list view when a file size is 1kB or less, Always display 1 kB.
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+# Size format in list view when a file size is from 1kB to 99kBs, rounded to full kBs.
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+# Size format in list view when a file size is from 100kB to 1MB.
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+# Size format in list view when a file size is from 1MB to 10MB.
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+# Size format in list view when a file size is from 10MB to 1GB.
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+# Size format in list view when a file size is 1GB or bigger.
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+# Title of "Change folder" dialog
+msgid "ckdg_ti_change_folder"
+msgstr "Klasörü değiştir"
+
+# New folder button of "Change folder" dialog
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Yeni"
+
+# Title text in Move to Folder Dialog
+msgid "ckdg_ti_move_to_folder"
+msgstr "Klasöre taşı"
+
+# "New folder" button in Move to Folder Dialog
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Yeni"
+
+# Title – Select <object> dialog
+msgid "ckdg_ti_open_file"
+msgstr "Dosya aç"
+
+# Title – Save <Object> Dialog
+msgid "sfil_ti_save_file"
+msgstr "Dosya kaydet"
+
+# Save <Object> Dialog Save button.
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Kaydet"
+
+# Name stub for default new file name in Save <Object> Dialog
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Dosya"
+
+# Caption for Type field in Save <Object> Dialog
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Tür"
+
+# Title – "save <objects>" dialog
+msgid "sfil_ti_save_objects_files"
+msgstr "Dosyaları kaydet"
+
+# "Save <objects>" dialog Save button.
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Kaydet"
+
+# Items field label in Save <Objects> Dialog
+msgid "sfil_fi_save_objects_items"
+msgstr "Öğeler"
+
+# Location field label in Save <Objects> Dialog
+msgid "sfil_fi_save_objects_location"
+msgstr "Konum"
+
+#  Items field value in "save <objects>" dialog when all items are documents
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d döküman"
+msgstr[1] "%d döküman"
+
+#  Items field value in "save <objects>" dialog when all items are HTML documents
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d HTML döküman"
+msgstr[1] "%d HTML döküman"
+
+#  Items field value in "save <objects>" dialog when all items are XML documents
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d XML döküman"
+msgstr[1] "%d XML döküman"
+
+#  Items field value in "save <objects>" dialog when all items are messages
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d mesaj"
+msgstr[1] "%d mesaj"
+
+#  Items field value in "save <objects>" dialog when all items are images
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d resim"
+msgstr[1] "%d resim"
+
+#  Items field value in "save <objects>" dialog when all items are applications
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d uygulama"
+msgstr[1] "%d uygulama"
+
+#  Items field value in "save <objects>" dialog when all items are shortcuts
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d kısayol"
+msgstr[1] "%d kısayol"
+
+#  Items field value in "save <objects>" dialog when all items are presentations
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d sunum"
+msgstr[1] "%d sunum"
+
+#  Items field value in "save <objects>" dialog when all items are bookmarks
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d bookmark"
+msgstr[1] "%d bookmarks"
+
+#  Items field value in "save <objects>" dialog when all items are certificates
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d sertifika"
+msgstr[1] "%d sertifika"
+
+#  Items field value in "save <objects>" dialog when all items are video clips
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d video klip"
+msgstr[1] "%d video klip"
+
+# Items field value in "save <objects>" dialog when all items are audio clips
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d ses klibi"
+
+# Plural_form 1: Items field value in "save <objects>" dialog when all items are audio clips.
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d ses klibi"
+
+#  Items field value in "save <objects>" dialog when all items are workbooks
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d çalışma kitabı"
+msgstr[1] "%d çalışma kitabı"
+
+#  Items field value in "save <objects>" dialog when items are of different types
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d dosya"
+msgstr[1] "%d dosya"
+
+#  Items field value in "save <objects>" dialog when items are attachments
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d eklenti"
+msgstr[1] "%d eklenti"
+
+#  Items field value in "save <objects>" dialog when all items are games
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d oyun"
+msgstr[1] "%d oyun"
+
+#  Items field value in "save <objects>" dialog when all items are notes
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d not"
+msgstr[1] "%d not"
+
+#  Items field value in "save <objects>" dialog when all items are sketches
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d taslak"
+msgstr[1] "%d taslak"
+
+# New folder dialog Save button.
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Kaydet"
+
+# Location field label for new folder dialog
+msgid "ckdg_fi_new_folder_location"
+msgstr "Konum"
+
+# Name field default value stub for new folder dialog
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Klasör"
+
+# Name field label for new folder dialog. (used in some application specific dialogs)
+msgid "ckdg_fi_new_folder_name"
+msgstr "Adı"
+
+# Title for <Filetype> Details Dialog
+msgid "sfil_ti_file_details"
+msgstr "Detaylar"
+
+# Informative text for read only file in properties dialog
+msgid "ckdg_fi_properties_read_only"
+msgstr "Bu dosya salt okunur"
+
+# Label text for Name property in properties dialog
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Adı"
+
+# Label text for Location property in <filetype> Details dialog
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Konum"
+
+# Label text for Storage property in <filetype> Details dialog
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Depo"
+
+# Label text for Type property in <filetype> Details dialog
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Tür"
+
+# Label text for Size property in <filetype> Details dialog
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Boyut"
+
+# Format string for Size value in kB in <filetype> Details dialog. This is used when size is smaller than 1kB. 1 kB is displayed always.
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+# Format string for Size items when size is from 1kB to 99kB.
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+# Format string for Size items when size is from 100kB to 1MB rounded to full kBs.
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+# Format string for Size items when size is from 1MB to 10MB, MBs with two decimals.
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+# Format string for Size items when size is from 10MB to 1GB, MBs with one decimal.
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+# Format string for Size items when size is from 1GB or greater, GBs with two decimals.
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+# Label text for Date property in <filetype> Details dialog
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Tarih"
+
+# Label text for Date property in <filetype> Details dialog
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Zaman"
+
+# Value text for property in <filetype> Details dialog, when value is unknown
+msgid "ckdg_va_property_unknown"
+msgstr "Bilinmeyen"
+
+# Confirmation text for Delete Current File Confirmation Note (WID – NOT173) when user is about to delete the active/open file in the application.
+msgid "sfil_nc_delete_open_file"
+msgstr "Dosya silinsin mi?"
+
+# Confirmation text for Recover File Confirmation Note (WID – NOT176) when user has opened application and the is a recovered file available.
+msgid "sfil_nc_recover_file"
+msgstr ""
+"Uygulama kapandığında dosya otomatik olarak kaydedildi. \n"
+"Saklamak istiyor musunuz?"
+
+# Presented when a file already exists in the target folder that is of the same type and has the same name as a file that is being copied/moved.
+msgid "docm_nc_replace_file"
+msgstr "Aynı isimdeki dosyanın yerini alsın mı?"
+
+# This Confirmation Note is presented when multiple files/folders, in any combination, exist in the target folder that has the same names as files/folders that are being copied/moved.
+msgid "docm_nc_replace_multiple"
+msgstr "Aynı isimdeki klasör içeriğinin yerini alsın mı?"
+
+# Confirmation text for Save before closing confirmation note when file type is image.
+msgid "docm_nc_save_before_closing_image"
+msgstr "Kapatmadan önce resim kaydedilsin mi?"
+
+# Confirmation text for Save before closing confirmation note when file type is audio file.
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Kapatmadan önce ses klibi kaydedilsin mi?"
+
+# Confirmation text for Save before closing confirmation note when file type is video file.
+msgid "docm_nc_save_before_closing_video"
+msgstr "Kapatmadan önce video klip kaydedilsin mi?"
+
+# Confirmation text for Save before closing confirmation note when file type is note file.
+msgid "docm_nc_save_before_closing_note"
+msgstr "Kapatmadan önce not kaydedilsin mi?"
+
+# Confirmation text for Save before closing confirmation note when file type is a document.
+msgid "docm_nc_save_before_closing_document"
+msgstr "Kapatmadan önce döküman kaydedilsin mi?"
+
+# Confirmation text for Save before closing confirmation note when file type is other file type.
+msgid "docm_nc_save_before_closing_file"
+msgstr "Kapatmadan önce dosya kaydedilsin mi?"
+
+# Confirmation text for Save before closing confirmation note when file type is a game.
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Kapatmadan önce oyun kaydedilsin mi?"
+
+# Confirmation text for Unable to save to selected location Save to device memory confirmation note [WID-NOT255].
+msgid "sfil_nc_not_available_save_local"
+msgstr ""
+"Seçilen konuma kaydedilemiyor.\n"
+"Cihaz hafızasına kaydedilsin mi?"
+
+# Moving file/folder(s) notification [WID-NOT253] text when single file is being moved.
+msgid "sfil_nw_moving_file"
+msgstr "Taşınıyor"
+
+# Moving file/folder(s) notification [WID-NOT253] text when multiple files are being moved.
+msgid "docm_nw_moving_files"
+msgstr "Taşınıyor %1$d/%2$d"
+
+# Cancel button for Moving file/folder(s) notification [WID-NOT253] when single file or multiple files are being moved.
+msgid "docm_bd_moving_files"
+msgstr "Dur"
+
+# Deleting files/folder(s) notification [WID-NOT254] text when single file is being deleted.
+msgid "docm_nw_deleting_file"
+msgstr "Siliniyor"
+
+# Deleting files/folder(s) notification [WID-NOT254] text when multiple files are being deleted.
+msgid "docm_nw_deleting_files"
+msgstr "Siliniyor %1$d/%2$d"
+
+# Stop button for Deleting files/folder(s) notification [WID-NOT254] when single file or multiple files are being deleted.
+msgid "docm_bd_deleting_files"
+msgstr "Dur"
+
+# Cancel notification while opening single file.
+msgid "docm_nw_opening_file"
+msgstr "Açılıyor"
+
+# Cancel notification while opening multiple files
+msgid "docm_nw_opening_files"
+msgstr "Açılıyor %1$d/%2$d"
+
+# Cancels DOCM_NW_OPENING_FILES operation
+msgid "docm_bd_opening_files"
+msgstr "Dur"
+
+# Cancel notification while saving file.
+msgid "docm_nw_saving_file"
+msgstr "Kaydediliyor"
+
+# Cancel notification while saving files
+msgid "docm_nw_saving_files"
+msgstr "Kaydediliyor %1$d/%2$d"
+
+# Cancel button for DOCM_NW_SAVING_FILE and DOCM_NW_SAVING_FILES operations
+msgid "docm_bd_saving_files"
+msgstr "Dur"
+
+# Stopping (WID – NOT175) Progress banner while stopping operation
+msgid "docm_pb_stopping"
+msgstr "Durduruluyor"
+
+# Shown after user has tried to access files on remote device and connection does not succeed.
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Cihaza bağlanılamıyor"
+
+# Shown after user has tried to access files on remote device and local device is in offline mode.
+msgid "sfil_ib_no_connections_flightmode"
+msgstr ""
+"Cihaz çevrimdışı modda.\n"
+"Bağlantıya izin verilmedi."
+
+# Shown after user has tried to select memory card, which is not inserted.
+msgid "hfil_ib_mmc_not_present"
+msgstr "Hafıza kartı takılı değil"
+
+# Shown if the user tries to open unreadable file or folder.
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Açılamıyor"
+
+# Shown if the user tries to cut and when the selection includes items that cannot be moved (e.g. safe folder).
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Bazı öğeler kesilemiyor"
+
+# Shown if the source/target folder or drive is read-only.
+msgid "sfil_ib_readonly_location"
+msgstr "Seçilen konum salt okunur"
+
+# Shown if the user tries to copy items that he does not have enough access rights.
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Kopyalanamıyor"
+
+# Shown if the user tries to rename an unreadable file/folder.
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Adlandırılamıyor"
+
+# Shown if the user tries to create a folder to a location where he does not have enough access rights.
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "İzin verilmedi"
+
+# Shown if user tries to delete read-only file.
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Bu dosya silinemiyor"
+
+# Shown if the user tries to move a file which he does not have enough access rights.
+msgid "sfil_ib_cannot_move_file"
+msgstr "Bu dosya taşınamıyor"
+
+# Shown if the user tries to save a file and it is found that there is not enough rights to do the operation.
+msgid "sfil_ib_saving_not_allowed"
+msgstr "İzin verilmedi"
+
+# Shown if the user tries to save a saved file or copy/paste over itself.
+msgid "sfil_ib_file_already_saved"
+msgstr "Dosya zaten bu konuma kaydedilmiş"
+
+# Shown if the user tries to accept file open dialog without selecting a file.
+msgid "sfil_ib_select_file"
+msgstr "Önce dosyayı seçin"
+
+# Shown if the user tries to use menu command that requires that file must be saved.
+msgid "sfil_ib_save_file_first"
+msgstr "Önce dosyayı kaydedin"
+
+# Shown after user has tried to operation to file that does not exist in the location any more
+msgid "sfil_ib_file_not_found"
+msgstr "Dosya bulunamadı"
+
+# Shown after user has tried to operation to folder that does not exist in the location any more
+msgid "sfil_ib_folder_not_found"
+msgstr "Klasör bulunamadı"
+
+# Shown after user has tried to operation to multiple items that do not exist in the location any more
+msgid "sfil_ib_items_not_found"
+msgstr "Öğeler bulunamadı"
+
+# Shown if the user tries to save or rename a file with a name which starts with "."
+msgid "sfil_ib_invalid_name_dot"
+msgstr "İsim '.' ile başlayamaz"
+
