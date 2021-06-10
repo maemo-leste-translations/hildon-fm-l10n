@@ -1,0 +1,382 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Нова"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Нова"
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Запазване"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Запазване"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Папка"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Име"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Дата"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Име"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Файлът е само за четене"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Размер"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Време"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Тип"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Промяна на папка"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Преместване на папка"
+
+msgid "ckdg_ti_open_file"
+msgstr "Отваряне на файл"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Папка"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d кБ"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f МБ"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f ГБ"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d кБ"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f МБ"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d кБ"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Неизвестно"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Файл"
+
+msgid "docm_bd_deleting_files"
+msgstr "Спиране"
+
+msgid "docm_bd_moving_files"
+msgstr "Спиране"
+
+msgid "docm_bd_opening_files"
+msgstr "Спиране"
+
+msgid "docm_bd_saving_files"
+msgstr "Спиране"
+
+msgid "docm_nc_replace_file"
+msgstr "Заместване на съществуващия файл?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Заместване на съществуващото в папката съдържание?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Запазване на аудио файлът преди да бъде затворен?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Запазване на документа преди да бъде затворен?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Запазване на файла преди да бъде затворен?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Запазване на изображението преди да бъде затворено?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Запазване на бележката преди да бъде затворена?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Запазване на видео файла преди да бъде затворен?"
+
+msgid "docm_nw_deleting_file"
+msgstr "Изтриване"
+
+msgid "docm_nw_deleting_files"
+msgstr "Изтриване %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Преместване %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "Отваряне"
+
+msgid "docm_nw_opening_files"
+msgstr "Отваряне %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "Запазване"
+
+msgid "docm_nw_saving_files"
+msgstr "Запазване %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "Спиране"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "Няма поставена карта-памет"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(няма файлове/папки)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Запазване"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Вътрешна карта-памет"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Място"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Тип"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Елементи"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Място"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Неуспешно свързване с устройството"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Неуспешно изрязване на някои елементи"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Неуспешно изтриване на този файл"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Неуспешно преместване на този файл"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Неуспешно копиране"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Забранено"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "Файлът вече е запазен на това място"
+
+msgid "sfil_ib_file_not_found"
+msgstr "Файлът не е намерен"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Папката не е намерена"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Името не може да започва с '.'"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Елементите не са намерени"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr "Устройството е в несвързан режим.\nСвързването не е разрешено."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Неуспешно отваряне"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Избраното място е само за четене"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Неуспешно преименоване"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Първо запазете файла"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Не е разрешено"
+
+msgid "sfil_ib_select_file"
+msgstr "Първо изберете файл"
+
+msgid "sfil_li_folder_camera"
+msgstr "Фотоапарат"
+
+msgid "sfil_li_folder_documents"
+msgstr "Документи"
+
+msgid "sfil_li_folder_images"
+msgstr "Изображения"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Аудио файлове"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Ръководства на потребителя"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Видео файлове"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Карта-памет"
+
+msgid "sfil_li_shared_media"
+msgstr "Споделена медия"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d кБ"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f МБ"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f ГБ"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d кБ"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f МБ"
+
+msgid "sfil_li_size_kb"
+msgstr "%d кБ"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Изтриване на файла?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr "Неуспешно запазване в избраното място.\nЗапазване в паметта на устройството?"
+
+msgid "sfil_nc_recover_file"
+msgstr "Файлът бе запазен автоматично при затваряне на приложението.\nИскате ли да го задържите?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Запазване на играта преди затваряне?"
+
+msgid "sfil_nw_moving_file"
+msgstr "Преместване"
+
+msgid "sfil_ti_file_details"
+msgstr "Информация"
+
+msgid "sfil_ti_save_file"
+msgstr "Запазване на файла"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Запазване на файловете"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d приложение"
+msgstr[1] "%d приложение"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d приложение"
+msgstr[1] "%d приложения"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d отметка"
+msgstr[1] "%d отметки"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d удостоверение"
+msgstr[1] "%d удостоверения"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d документ"
+msgstr[1] "%d документи"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d файл"
+msgstr[1] "%d файлове"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d игра"
+msgstr[1] "%d игри"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d HTML документ"
+msgstr[1] "%d HTML документи"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d изображение"
+msgstr[1] "%d изображения"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d съобщение"
+msgstr[1] "%d съобщения"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d бележка"
+msgstr[1] "%d бележки"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d презентация"
+msgstr[1] "%d презентации"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d пряк път"
+msgstr[1] "%d преки пътища"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d скица"
+msgstr[1] "%d скици"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d аудио файл"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d аудио файлове"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d видео файл"
+msgstr[1] "%d видео файлове"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d работна книга"
+msgstr[1] "%d работни книги"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d XML документ"
+msgstr[1] "%d XML документи"
