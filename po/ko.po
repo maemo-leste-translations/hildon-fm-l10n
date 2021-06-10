@@ -1,0 +1,365 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2012-05-30 14:40+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "새로 만들기"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "새로 만들기"
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "저장"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "저장"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "위치"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "이름"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "날짜"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "이름"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "파일이 읽기 전용입니다"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "크기"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "시간"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "종류"
+
+msgid "ckdg_ti_change_folder"
+msgstr "폴더 변경"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "폴더로 이동"
+
+msgid "ckdg_ti_open_file"
+msgstr "파일 열기"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "폴더"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "알 수 없음"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "파일"
+
+msgid "docm_bd_deleting_files"
+msgstr "중지"
+
+msgid "docm_bd_moving_files"
+msgstr "중지"
+
+msgid "docm_bd_opening_files"
+msgstr "중지"
+
+msgid "docm_bd_saving_files"
+msgstr "중지"
+
+msgid "docm_nc_replace_file"
+msgstr "이미 존재하는 파일을 같은 이름으로 덮어 씌우시겠습니까?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "이미 존재하는 폴더와 내용물을 같은 이름으로 덮어 씌우시겠습니까?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "오디오 클립을 닫기 전에 저장할까요?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "문서를 닫기 전에 저장할까요?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "파일을 닫기 전에 저장할까요?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "이미지를 닫기 전에 저장할까요?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "노트를 닫기 전에 저장할까요?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "비디오 클립을 닫기 전에 저장할까요?"
+
+msgid "docm_nw_deleting_file"
+msgstr "삭제 중"
+
+msgid "docm_nw_deleting_files"
+msgstr "%1$d/%2$d 삭제 중"
+
+msgid "docm_nw_moving_files"
+msgstr "%1$d/%2$d 이동 중"
+
+msgid "docm_nw_opening_file"
+msgstr "여는 중"
+
+msgid "docm_nw_opening_files"
+msgstr "%1$d/%2$d 여는 중"
+
+msgid "docm_nw_saving_file"
+msgstr "저장 중"
+
+msgid "docm_nw_saving_files"
+msgstr "%1$d/%2$d 저장 중"
+
+msgid "docm_pb_stopping"
+msgstr "중지 중"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "메모리 카드가 삽입되어 있지 않습니다"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(파일/폴더 없음)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "저장"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "저장소"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "위치"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "종류"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "항목들"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "위치"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "장치에 연결할 수 없습니다"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "일부 항목을 잘라내기 할 수 없습니다"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "이 파일을 삭제할 수 없습니다"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "이 파일을 이동할 수 없습니다"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "복사할 수 없습니다"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "허용되지 않음"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "파일이 이미 현재 위치에 저장되어 있습니다"
+
+msgid "sfil_ib_file_not_found"
+msgstr "파일을 찾을 수 없습니다"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "폴더를 찾을 수 없습니다"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "이름이 '.'로 시작할 수 없습니다"
+
+msgid "sfil_ib_items_not_found"
+msgstr "항목을 찾을 수 없습니다"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr "장치가 오프라인 모드 입니다.\n연결이 허용되지 않습니다."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "열 수 없습니다"
+
+msgid "sfil_ib_readonly_location"
+msgstr "선택한 위치가 읽기 전용 입니다"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "이름 바꾸기를 할 수 없습니다"
+
+msgid "sfil_ib_save_file_first"
+msgstr "파일 저장을 먼저해주세요"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "허용되지 않음"
+
+msgid "sfil_ib_select_file"
+msgstr "파일을 먼저 선택해주세요"
+
+msgid "sfil_li_folder_camera"
+msgstr "카메라"
+
+msgid "sfil_li_folder_documents"
+msgstr "문서"
+
+msgid "sfil_li_folder_images"
+msgstr "이미지"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "오디오"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "사용자 설명서"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "비디오"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "메모리"
+
+msgid "sfil_li_shared_media"
+msgstr "공유된 미디어"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "파일을 삭제할까요?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr "선택한 위치에 저장을 할 수 없습니다.\n장치 메모리에 저장하시겠습니까?"
+
+msgid "sfil_nc_recover_file"
+msgstr "어플리케이션이 종료될 때 파일이 자동으로 저장 됐습니다.\n그대로 유지하길 원하십니까?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "닫기 전에 게임을 저장할까요?"
+
+msgid "sfil_nw_moving_file"
+msgstr "이동 중"
+
+msgid "sfil_ti_file_details"
+msgstr "자세히"
+
+msgid "sfil_ti_save_file"
+msgstr "파일 저장"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "파일들 저장"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d 개의 어플리케이션"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d 개의 첨부물"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d 개의 즐겨찾기"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d 개의 인증서"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d 개의 문서"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d 개의 파일"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d 개의 게임"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d 개의 HTML 문서"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d 개의 이미지"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d 개의 메세지"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d 개의 노트"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d 개의 프레젠테이션"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d 개의 바로가기"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d 개의 스케치"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d 개의 오디오 클립"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d 개의 오디오 클립"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d 개의 비디오 클립"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d 개의 워크북"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d 개의 XML 문서"
