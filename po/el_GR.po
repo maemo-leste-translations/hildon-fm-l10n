@@ -1,0 +1,382 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Δημιουργία νέου "
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Δημιουργία νέου"
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Αποθήκευση"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Αποθήκευση"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Τοποθεσία"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Όνομα"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Ημερομηνία"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Όνομα"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Το αρχείο είναι μόνο για ανάγνωση"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Μέγεθος"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Χρόνος"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Τύπος"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Αλλαγή φακέλου"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Μετακίνηση σε φάκελο"
+
+msgid "ckdg_ti_open_file"
+msgstr "Άνοιγμα αρχείου"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Φάκελος"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Άγνωστο"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Αρχείο"
+
+msgid "docm_bd_deleting_files"
+msgstr "Διακοπή"
+
+msgid "docm_bd_moving_files"
+msgstr "Διακοπή"
+
+msgid "docm_bd_opening_files"
+msgstr "Διακοπή"
+
+msgid "docm_bd_saving_files"
+msgstr "Διακοπή"
+
+msgid "docm_nc_replace_file"
+msgstr "Αντικατάσταση υπάρχοντος αρχείου;"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Αντικατάσταση περιεχομένων του υπάρχοντος φακέλου;"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Αποθήκευση κλιπ ήχου πριν το κλείσιμο;"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Αποθήκευση εγγράφου πριν το κλείσιμο;"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Αποθήκευση αρχείου πριν το κλείσιμο;"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Αποθήκευση εικόνας πριν το κλείσιμο;"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Αποθήκευσης σημείωσης πριν το κλείσιμο;"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Αποθήκευση κλιπ βίντεο πριν το κλείσιμο;"
+
+msgid "docm_nw_deleting_file"
+msgstr "Διαγραφή"
+
+msgid "docm_nw_deleting_files"
+msgstr "Διαγραφή %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Μετακίνηση %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "Άνοιγμα"
+
+msgid "docm_nw_opening_files"
+msgstr "Άνοιγμα %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "Αποθήκευση"
+
+msgid "docm_nw_saving_files"
+msgstr "Αποθήκευση %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "Διακοπή"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "Δεν έγινε εισαγωγή κάρτας μνήμης"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(δεν υπάρχουν αρχεία/φάκελοι)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Αποθήκευση"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Αποθηκευτικός χώρος"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Τοποθεσία"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Τύπος"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Αντικείμενα"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Τοποθεσία"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Αδυναμία σύνδεσης με τη συσκευή"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Αδυναμία αποκοπής κάποιων αντικειμένων"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Αδυναμία διαγραφής αυτού του αρχείου"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Αδυναμία μετακίνησης αυτού του αντικειμένου"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Αδυναμία αντιγραφής"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Δεν επιτρέπεται"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "Το αρχείο αποθηκεύτηκε ήδη σε αυτήν την τοποθεσία"
+
+msgid "sfil_ib_file_not_found"
+msgstr "Το αρχείο δεν βρέθηκε"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Ο φάκελος δεν βρέθηκε"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Το όνομα δεν γίνεται να αρχίζει με '.'"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Τα αντικείμενα δεν βρέθηκαν"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr "Η συσκευή είναι σε λειτουργία εκτός σύνδεσης.\nΗ σύνδεση δεν επιτρέπεται."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Αδυναμία ανοίγματος"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Η επιλεγμένη τοποθεσία είναι μόνο για ανάγνωση"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Αδυναμία μετονομασίας"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Αποθηκεύστε το αρχείο πρώτα"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Δεν επιτρέπεται"
+
+msgid "sfil_ib_select_file"
+msgstr "Επιλέξτε το αρχείο πρώτα"
+
+msgid "sfil_li_folder_camera"
+msgstr "Κάμερα"
+
+msgid "sfil_li_folder_documents"
+msgstr "Έγγραφα"
+
+msgid "sfil_li_folder_images"
+msgstr "Εικόνες"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Κλιπ ήχου"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Οδηγοί χρήστη"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Κλιπ βίντεο"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Κάρτα μνήμης"
+
+msgid "sfil_li_shared_media"
+msgstr "Διαμοιραζόμενα πολυμέσα"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Διαγραφή αρχείου;"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr "Αδυναμία αποθήκευσης στην επιλεγμένη τοποθεσία.\nΑποθήκευση στη μνήμη της συσκευής;"
+
+msgid "sfil_nc_recover_file"
+msgstr "Το αρχείο αποθηκεύτηκε αυτόματα όταν έκλεισε η εφαρμογή.\nΘέλετε να το κρατήσετε;"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Αποθήκευση του παιχνιδιού πριν το κλείσιμο;"
+
+msgid "sfil_nw_moving_file"
+msgstr "Μετακίνηση"
+
+msgid "sfil_ti_file_details"
+msgstr "Λεπτομέρειες"
+
+msgid "sfil_ti_save_file"
+msgstr "Αποθήκευση αρχείου"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Αποθήκευση αρχείων"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d εφαρμογή"
+msgstr[1] "%d εφαρμογές"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d επισύναψη"
+msgstr[1] "%d επισυνάψεις"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d σελιδοδείκτης"
+msgstr[1] "%d σελιδοδείκτες"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d πιστοποιητικό"
+msgstr[1] "%d πιστοποιητικά"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d έγγραφο"
+msgstr[1] "%d έγγραφα"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d αρχείο"
+msgstr[1] "%d αρχεία"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d παιχνίδι"
+msgstr[1] "%d παιχνίδια"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d έγγραφο HTML"
+msgstr[1] "%d έγγραφα HTML"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d εικόνα"
+msgstr[1] "%d εικόνες"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d μήνυμα"
+msgstr[1] "%d μηνύματα"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d σημείωση"
+msgstr[1] "%d σημειώσεις"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d παρουσίαση"
+msgstr[1] "%d παρουσιάσεις"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d συντόμευση"
+msgstr[1] "%d συντομεύσεις"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d σχέδιο"
+msgstr[1] "%d σχέδια"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d κλιπ ήχου"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d κλιπ ήχου"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d κλιπ βίντεο"
+msgstr[1] "%d κλιπ βίντεο"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d βιβλίο εργασίας"
+msgstr[1] "%d βιβλία εργασίας"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d έγγραφο XML"
+msgstr[1] "%d έγγραφα XML"
