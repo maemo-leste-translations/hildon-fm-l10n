@@ -1,0 +1,383 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Nou"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Nou"
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Desa"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Desa"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Ubicació"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Nom"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Data"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Nom"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Fitxer només de lectura"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Mida"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Hora"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Tipus"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Canvia al directori"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Mou al directori"
+
+msgid "ckdg_ti_open_file"
+msgstr "Obre un fitxer"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Directori"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Desconegut"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Fitxer"
+
+msgid "docm_bd_deleting_files"
+msgstr "Atura"
+
+msgid "docm_bd_moving_files"
+msgstr "Atura"
+
+msgid "docm_bd_opening_files"
+msgstr "Atura"
+
+msgid "docm_bd_saving_files"
+msgstr "Atura"
+
+msgid "docm_nc_replace_file"
+msgstr "Se substitueix el fitxer existent amb el mateix nom?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Se substitueix el contingut del directori existent amb el mateix nom?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Es desa el fitxer de so abans de tancar?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Es desa el document abans de tancar?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Es desa el fitxer abans de tancar?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Es desa la imatge abans de tancar?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Es desa la nota abans de tancar?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Es desa el fitxer de vídeo abans de tancar?"
+
+msgid "docm_nw_deleting_file"
+msgstr "S'està esborrant"
+
+msgid "docm_nw_deleting_files"
+msgstr "S'esborra %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Es mou %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "S'està obrint"
+
+msgid "docm_nw_opening_files"
+msgstr "S'obre %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "S'està desant"
+
+msgid "docm_nw_saving_files"
+msgstr "Es desa %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "S'està aturant"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "No hi ha targeta de memòria"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(no hi ha fitxers)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Desa"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Emmagatzematge"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Ubicació"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Tipus"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Objectes"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Ubicació"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "No s'ha pogut connectar a dispositiu"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "No s'ha pogut tallar alguns objectes"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "No s'ha pogut esborrar el fitxer"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "No s'ha pogut moure el fitxer"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "No s'ha pogut copiar"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "No permès"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "El fitxer ja s'ha desat en aquest lloc"
+
+msgid "sfil_ib_file_not_found"
+msgstr "No s'ha trobat el fitxer"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "No s'ha trobat el directori"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "El nom no pot començar amb '.'"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Objectes no trobats"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr "Dispositiu en mode sense connexió.\nConnexió no permesa"
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "No s'ha pogut obrir"
+
+msgid "sfil_ib_readonly_location"
+msgstr "La ubicació és només de lectura"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "No s'ha pogut reanomenar"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Desa els fitxer primer"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "No permès"
+
+msgid "sfil_ib_select_file"
+msgstr "Primer seleccionar fitxer"
+
+msgid "sfil_li_folder_camera"
+msgstr "Càmera"
+
+msgid "sfil_li_folder_documents"
+msgstr "Documents"
+
+msgid "sfil_li_folder_images"
+msgstr "Imatges"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Fitxers de so"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Guies d'usuari"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Fitxers de vídeo"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Targeta de memòria"
+
+msgid "sfil_li_shared_media"
+msgstr "Fitxers compartits"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "S'esborra el fitxer?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr "No s'ha pogut desar.\nEs desa a la memòria del dispositiu?"
+
+msgid "sfil_nc_recover_file"
+msgstr "El fitxer es va desar automàticament quan es va tancar l'aplicació.\nVoleu conservar-lo?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Es desa el joc abans de tancar?"
+
+msgid "sfil_nw_moving_file"
+msgstr "S'està movent"
+
+msgid "sfil_ti_file_details"
+msgstr "Detalls"
+
+msgid "sfil_ti_save_file"
+msgstr "Desa el fitxer"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Desa els fitxers"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d aplicació"
+msgstr[1] "%d aplicacions"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d adjunció"
+msgstr[1] "%d adjuncions"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d preferit"
+msgstr[1] "%d preferits"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d certificat"
+msgstr[1] "%d certificats"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d document"
+msgstr[1] "%d documents"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d fitxer"
+msgstr[1] "%d fitxers"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d joc"
+msgstr[1] "%d jocs"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d document HTML "
+msgstr[1] "%d documents HTML"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d imatge"
+msgstr[1] "%d imatges"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d missatge"
+msgstr[1] "%d missatges"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d nota"
+msgstr[1] "%d notes"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d presentació"
+msgstr[1] "%d presentacions"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d drecera"
+msgstr[1] "%d dreceres"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d esquema"
+msgstr[1] "%d esquemes"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d fitxer de so"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d fitxers de so"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d fitxer de vídeo"
+msgstr[1] "%d fitxers de vídeo"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d llibre de treball"
+msgstr[1] "%d llibre de trebal"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d document XML"
+msgstr[1] "%d documents XML"
