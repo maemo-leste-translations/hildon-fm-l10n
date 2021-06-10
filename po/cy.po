@@ -1,0 +1,417 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2012-02-07 10:11+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "ckdg_bd_change_folder_new_folder"
+msgstr "Newydd"
+
+msgid "ckdg_bd_move_to_folder_new_folder"
+msgstr "Newydd"
+
+msgid "ckdg_bd_new_folder_dialog_ok"
+msgstr "Cadw"
+
+msgid "ckdg_bd_save_object_dialog_ok"
+msgstr "Cadw"
+
+msgid "ckdg_fi_new_folder_location"
+msgstr "Lleoliad"
+
+msgid "ckdg_fi_new_folder_name"
+msgstr "Enw"
+
+msgid "ckdg_fi_properties_date_prompt"
+msgstr "Dyddiad"
+
+msgid "ckdg_fi_properties_name_prompt"
+msgstr "Enw"
+
+msgid "ckdg_fi_properties_read_only"
+msgstr "Ffeil darllen-yn-unig"
+
+msgid "ckdg_fi_properties_size_prompt"
+msgstr "Maint"
+
+msgid "ckdg_fi_properties_time_prompt"
+msgstr "Amser"
+
+msgid "ckdg_fi_properties_type_prompt"
+msgstr "Math"
+
+msgid "ckdg_ti_change_folder"
+msgstr "Newid ffolder"
+
+msgid "ckdg_ti_move_to_folder"
+msgstr "Symud i ffolder"
+
+msgid "ckdg_ti_open_file"
+msgstr "Agor ffeil"
+
+msgid "ckdg_va_new_folder_name_stub"
+msgstr "Ffolder"
+
+msgid "ckdg_va_properties_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "ckdg_va_properties_size_1gb_or_greater"
+msgstr "%.2f GB"
+
+msgid "ckdg_va_properties_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_properties_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "ckdg_va_properties_size_kb"
+msgstr "%d kB"
+
+msgid "ckdg_va_property_unknown"
+msgstr "Anhysbys"
+
+msgid "ckdg_va_save_object_name_stub_default"
+msgstr "Ffeil"
+
+msgid "docm_bd_deleting_files"
+msgstr "Atal"
+
+msgid "docm_bd_moving_files"
+msgstr "Atal"
+
+msgid "docm_bd_opening_files"
+msgstr "Atal"
+
+msgid "docm_bd_saving_files"
+msgstr "Atal"
+
+msgid "docm_nc_replace_file"
+msgstr "Disodli ffeil sydd eisoes a'r un enw?"
+
+msgid "docm_nc_replace_multiple"
+msgstr "Disodli cynnwys ffolder sydd eisoes a'r un enw?"
+
+msgid "docm_nc_save_before_closing_audio"
+msgstr "Cadw'r clip sain cyn cau?"
+
+msgid "docm_nc_save_before_closing_document"
+msgstr "Cadw'r ddogfen cyn cau?"
+
+msgid "docm_nc_save_before_closing_file"
+msgstr "Cadw'r ffeil cyn cau?"
+
+msgid "docm_nc_save_before_closing_image"
+msgstr "Cadw'r ddelwedd cyn cau?"
+
+msgid "docm_nc_save_before_closing_note"
+msgstr "Cadw'r nodyn cyn cau?"
+
+msgid "docm_nc_save_before_closing_video"
+msgstr "Cadw'r clip fideo cyn cau?"
+
+msgid "docm_nw_deleting_file"
+msgstr "Yn dileu"
+
+msgid "docm_nw_deleting_files"
+msgstr "Yn dileu %1$d/%2$d"
+
+msgid "docm_nw_moving_files"
+msgstr "Yn symud %1$d/%2$d"
+
+msgid "docm_nw_opening_file"
+msgstr "Yn agor"
+
+msgid "docm_nw_opening_files"
+msgstr "Yn agor %1$d/%2$d"
+
+msgid "docm_nw_saving_file"
+msgstr "Yn cadw"
+
+msgid "docm_nw_saving_files"
+msgstr "Yn cadw %1$d/%2$d"
+
+msgid "docm_pb_stopping"
+msgstr "Yn atal"
+
+msgid "hfil_ib_mmc_not_present"
+msgstr "Dim cerdyn cod yn y dyfais"
+
+msgid "hfil_li_no_files_folders_to_show"
+msgstr "(dim ffeiliau/ffolderi)"
+
+msgid "sfil_bd_save_objects_dialog_ok"
+msgstr "Cadw"
+
+msgid "sfil_fi_properties_device_prompt"
+msgstr "Storfa"
+
+msgid "sfil_fi_properties_location_prompt"
+msgstr "Lleoliad"
+
+msgid "sfil_fi_save_object_dialog_type"
+msgstr "Math"
+
+msgid "sfil_fi_save_objects_items"
+msgstr "Eitemau"
+
+msgid "sfil_fi_save_objects_location"
+msgstr "Lleoliad"
+
+msgid "sfil_ib_cannot_connect_device"
+msgstr "Methu cysylltu a'r dyfais"
+
+msgid "sfil_ib_cannot_cut_some_items"
+msgstr "Methu torri rhai eitemau"
+
+msgid "sfil_ib_cannot_delete_file"
+msgstr "Methu dileu'r ffeil yma"
+
+msgid "sfil_ib_cannot_move_file"
+msgstr "Methu symud y ffeil yma"
+
+msgid "sfil_ib_copying_not_allowed"
+msgstr "Methu copïo"
+
+msgid "sfil_ib_create_folder_not_allowed"
+msgstr "Ni ganiateir"
+
+msgid "sfil_ib_file_already_saved"
+msgstr "Ffeil eisoes wedi ei gadw yn y lleoliad yma"
+
+msgid "sfil_ib_file_not_found"
+msgstr "Ffeil heb ei ganfod"
+
+msgid "sfil_ib_folder_not_found"
+msgstr "Ffolder heb ei ganfod"
+
+msgid "sfil_ib_invalid_name_dot"
+msgstr "Methu dechrau enw gyda '.'"
+
+msgid "sfil_ib_items_not_found"
+msgstr "Ni ganfuwyd eitemau"
+
+msgid "sfil_ib_no_connections_flightmode"
+msgstr "Dyfais mewn modd all-lein. Ni ganiateir y cysylltiad."
+
+msgid "sfil_ib_opening_not_allowed"
+msgstr "Methu agor"
+
+msgid "sfil_ib_readonly_location"
+msgstr "Dynodwyd lleoliad darllen-yn-unig"
+
+msgid "sfil_ib_renaming_not_allowed"
+msgstr "Methu ailenwi"
+
+msgid "sfil_ib_save_file_first"
+msgstr "Cadw'r ffeil yn gyntaf"
+
+msgid "sfil_ib_saving_not_allowed"
+msgstr "Ni ganiateir"
+
+msgid "sfil_ib_select_file"
+msgstr "Dewis ffeil yn gyntaf"
+
+msgid "sfil_li_folder_camera"
+msgstr "Camera"
+
+msgid "sfil_li_folder_documents"
+msgstr "Dogfennau"
+
+msgid "sfil_li_folder_images"
+msgstr "Lluniau"
+
+msgid "sfil_li_folder_sound_clips"
+msgstr "Clipiau sain"
+
+msgid "sfil_li_folder_user_guides"
+msgstr "Canllawiau defnyddiwr"
+
+msgid "sfil_li_folder_video_clips"
+msgstr "Clipiau fideo"
+
+msgid "sfil_li_memorycard_removable"
+msgstr "Cerdyn cof"
+
+msgid "sfil_li_shared_media"
+msgstr "Ffeiliau a rennir"
+
+msgid "sfil_li_size_100kb_1mb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_1gb_or_greater"
+msgstr "%.1f GB"
+
+msgid "sfil_li_size_1kb_99kb"
+msgstr "%d kB"
+
+msgid "sfil_li_size_1mb_10mb"
+msgstr "%.1f MB"
+
+msgid "sfil_li_size_kb"
+msgstr "%d kB"
+
+msgid "sfil_nc_delete_open_file"
+msgstr "Dileu ffeil?"
+
+msgid "sfil_nc_not_available_save_local"
+msgstr "Methu cadw yn y lleoliad a ddynodwyd. Cadw at gôf y dyfais?"
+
+msgid "sfil_nc_recover_file"
+msgstr "Arbedwyd copi o'r ffeil pan gaewyd y rhaglen. Ydych am ei gadw?"
+
+msgid "sfil_nc_save_before_closing_game"
+msgstr "Cadw'r gêm cyn cau?"
+
+msgid "sfil_nw_moving_file"
+msgstr "Yn symud"
+
+msgid "sfil_ti_file_details"
+msgstr "Manylion"
+
+msgid "sfil_ti_save_file"
+msgstr "Cadw ffeil"
+
+msgid "sfil_ti_save_objects_files"
+msgstr "Cadw ffeiliau"
+
+msgid "sfil_va_number_of_objects_application"
+msgid_plural "sfil_va_number_of_objects_applications"
+msgstr[0] "%d rhaglen"
+msgstr[1] "%d rhaglen"
+msgstr[2] "%d rhaglen"
+msgstr[3] "%d rhaglen"
+
+msgid "sfil_va_number_of_objects_attachment"
+msgid_plural "sfil_va_number_of_objects_attachments"
+msgstr[0] "%d ymlyniad"
+msgstr[1] "%d ymlyniad"
+msgstr[2] "%d ymlyniad"
+msgstr[3] "%d ymlyniad"
+
+msgid "sfil_va_number_of_objects_bookmarks"
+msgid_plural "sfil_va_number_of_objects_bookmarks"
+msgstr[0] "%d tudnod"
+msgstr[1] "%d tudnod"
+msgstr[2] "%d tudnod"
+msgstr[3] "%d tudnod"
+
+msgid "sfil_va_number_of_objects_certificate"
+msgid_plural "sfil_va_number_of_objects_certificates"
+msgstr[0] "%d tystysgrif"
+msgstr[1] "%d tystysgrif"
+msgstr[2] "%d tystysgrif"
+msgstr[3] "%d tystysgrif"
+
+msgid "sfil_va_number_of_objects_document"
+msgid_plural "sfil_va_number_of_objects_documents"
+msgstr[0] "%d dogfen"
+msgstr[1] "%d dogfen"
+msgstr[2] "%d dogfen"
+msgstr[3] "%d dogfen"
+
+msgid "sfil_va_number_of_objects_file"
+msgid_plural "sfil_va_number_of_objects_files"
+msgstr[0] "%d ffeil"
+msgstr[1] "%d ffeil"
+msgstr[2] "%d ffeil"
+msgstr[3] "%d ffeil"
+
+msgid "sfil_va_number_of_objects_game"
+msgid_plural "sfil_va_number_of_objects_games"
+msgstr[0] "%d gêm"
+msgstr[1] "%d gêm"
+msgstr[2] "%d gêm"
+msgstr[3] "%d gêm"
+
+msgid "sfil_va_number_of_objects_html_document"
+msgid_plural "sfil_va_number_of_objects_html_documents"
+msgstr[0] "%d dogfen HTML"
+msgstr[1] "%d dogfen HTML"
+msgstr[2] "%d dogfen HTML"
+msgstr[3] "%d dogfen HTML"
+
+msgid "sfil_va_number_of_objects_image"
+msgid_plural "sfil_va_number_of_objects_images"
+msgstr[0] "%d llun"
+msgstr[1] "%d llun"
+msgstr[2] "%d llun"
+msgstr[3] "%d llun"
+
+msgid "sfil_va_number_of_objects_message"
+msgid_plural "sfil_va_number_of_objects_messages"
+msgstr[0] "%d neges"
+msgstr[1] "%d neges"
+msgstr[2] "%d neges"
+msgstr[3] "%d neges"
+
+msgid "sfil_va_number_of_objects_note"
+msgid_plural "sfil_va_number_of_objects_notes"
+msgstr[0] "%d nodyn"
+msgstr[1] "%d nodyn"
+msgstr[2] "%d nodyn"
+msgstr[3] "%d nodyn"
+
+msgid "sfil_va_number_of_objects_presentation"
+msgid_plural "sfil_va_number_of_objects_presentations"
+msgstr[0] "%d cyflwyniad"
+msgstr[1] "%d cyflwyniad"
+msgstr[2] "%d cyflwyniad"
+msgstr[3] "%d cyflwyniad"
+
+msgid "sfil_va_number_of_objects_shortcut"
+msgid_plural "sfil_va_number_of_objects_shortcuts"
+msgstr[0] "%d byrlwybr"
+msgstr[1] "%d byrlwybr"
+msgstr[2] "%d byrlwybr"
+msgstr[3] "%d byrlwybr"
+
+msgid "sfil_va_number_of_objects_sketch"
+msgid_plural "sfil_va_number_of_objects_sketches"
+msgstr[0] "%d sgets"
+msgstr[1] "%d sgets"
+msgstr[2] "%d sgets"
+msgstr[3] "%d sgets"
+
+msgid "sfil_va_number_of_objects_soundclip"
+msgstr "%d clip sain"
+
+msgid "sfil_va_number_of_objects_soundclips"
+msgstr "%d clip sain"
+
+msgid "sfil_va_number_of_objects_videoclip"
+msgid_plural "sfil_va_number_of_objects_videoclips"
+msgstr[0] "%d clip fideo"
+msgstr[1] "%d clip fideo"
+msgstr[2] "%d clip fideo"
+msgstr[3] "%d clip fideo"
+
+msgid "sfil_va_number_of_objects_workbook"
+msgid_plural "sfil_va_number_of_objects_workbooks"
+msgstr[0] "%d llyfr gwaith"
+msgstr[1] "%d llyfr gwaith"
+msgstr[2] "%d llyfr gwaith"
+msgstr[3] "%d llyfr gwaith"
+
+msgid "sfil_va_number_of_objects_xml_document"
+msgid_plural "sfil_va_number_of_objects_xml_documents"
+msgstr[0] "%d dogfen XML"
+msgstr[1] "%d dogfen XML"
+msgstr[2] "%d dogfen XML"
+msgstr[3] "%d dogfen XML"
