@@ -33,8 +33,8 @@ msgstr ""
 "Project-Id-Version: hildon-fm 20090622130112\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.22 13:01+0300\n"
-"PO-Revision-Date: 2021-05-26 13:32+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "hildon-fm-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 # Device’s removable memory card name when card has no name or is not present.
 msgid "sfil_li_memorycard_removable"
@@ -288,7 +288,7 @@ msgstr "Adı"
 
 # Title for <Filetype> Details Dialog
 msgid "sfil_ti_file_details"
-msgstr "Detaylar"
+msgstr "Ayrıntılar"
 
 # Informative text for read only file in properties dialog
 msgid "ckdg_fi_properties_read_only"
@@ -400,7 +400,7 @@ msgstr "Kapatmadan önce oyun kaydedilsin mi?"
 msgid "sfil_nc_not_available_save_local"
 msgstr ""
 "Seçilen konuma kaydedilemiyor.\n"
-"Cihaz hafızasına kaydedilsin mi?"
+"Aygıt hafızasına kaydedilsin mi?"
 
 # Moving file/folder(s) notification [WID-NOT253] text when single file is being moved.
 msgid "sfil_nw_moving_file"
@@ -456,12 +456,12 @@ msgstr "Durduruluyor"
 
 # Shown after user has tried to access files on remote device and connection does not succeed.
 msgid "sfil_ib_cannot_connect_device"
-msgstr "Cihaza bağlanılamıyor"
+msgstr "Aygıta bağlanılamıyor"
 
 # Shown after user has tried to access files on remote device and local device is in offline mode.
 msgid "sfil_ib_no_connections_flightmode"
 msgstr ""
-"Cihaz çevrimdışı modda.\n"
+"Aygıt çevrim dışı modda.\n"
 "Bağlantıya izin verilmedi."
 
 # Shown after user has tried to select memory card, which is not inserted.
@@ -474,7 +474,7 @@ msgstr "Açılamıyor"
 
 # Shown if the user tries to cut and when the selection includes items that cannot be moved (e.g. safe folder).
 msgid "sfil_ib_cannot_cut_some_items"
-msgstr "Bazı öğeler kesilemiyor"
+msgstr "Bazı ögeler kesilemiyor"
 
 # Shown if the source/target folder or drive is read-only.
 msgid "sfil_ib_readonly_location"
